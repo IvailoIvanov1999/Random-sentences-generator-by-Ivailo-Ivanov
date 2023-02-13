@@ -7,7 +7,7 @@ Random sentence generator will generate some sentences ,funny,jokes,serious and 
   
   Program generate some logical,or no logical ,or funny sentences .
   
-  Generatro is based on :
+  Generator is based on :
         Sentence = who + action + details
         Who = name | name from place 
             names = peter,jane,ivailo .....
